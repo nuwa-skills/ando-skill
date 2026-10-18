@@ -5,7 +5,7 @@
 > "在没有被给予的时候，自己去争取。在没有道路的地方，自己去开辟。" —— 安藤忠雄
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将安藤忠雄的建筑哲学——极简、自学、混凝土般的坚定——注入你的 AI 对话，让每一次回答都像光之教堂般直击本质。**
 
